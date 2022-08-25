@@ -1,0 +1,2 @@
+:root{--c-font:#323330;--c-primary:#f7df1e}body{color:#323330;color:var(--c-font);font-family:sans-serif;background-color:#f7df1e;background-color:var(--c-primary);margin:0;padding:0}.App header{margin:1em;font-size:2em;text-align:center;font-weight:800}.App nav{font-size:1.2em;font-weight:800}.App nav li{list-style-type:none}.App header a,.App nav a{text-decoration:none;color:#323330;color:var(--c-font)}.App header a:hover,.App nav a{opacity:.8}.App .content{margin:1em}
+/*# sourceMappingURL=main.73e99b55.chunk.css.map */
